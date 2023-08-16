@@ -11,3 +11,4 @@ export 'src/widgets/animated_icons/yaru_animated_star_icon.dart';
 export 'src/widgets/yaru_placeholder_icon.dart';
 export 'src/yaru_freedesktop_icons.dart';
 export 'src/yaru_icons.dart';
+export 'src/yaru_icons20.dart';
