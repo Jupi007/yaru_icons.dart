@@ -19,6 +19,25 @@ flutter:
     - family: YaruIcons20
       fonts:
         - asset: assets/yaru_icons20.ttf
+    - family: YaruIconsBis
+      fonts:
+        - asset: assets/yaru_icons_bis.ttf
 
 dev_dependencies:
   flutter_lints: ^2.0.1
+
+icon_font:
+  input_svg_dir: "assets/icons_bis/"
+  output_font_file: "assets/yaru_icons_bis.ttf"
+
+  output_class_file: "lib/src/yaru_icons_bis.dart"
+  class_name: "YaruIconsBis"
+  package: yaru_icons
+  format: false
+
+  font_name: "YaruIconsBis"
+  normalize: false
+  ignore_shapes: true
+
+  recursive: true
+  verbose: true
