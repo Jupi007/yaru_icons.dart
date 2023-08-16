@@ -25,7 +25,7 @@
      inkscape:snap-page="true"
      inkscape:zoom="28"
      inkscape:cx="10.5"
-     inkscape:cy="11.875"
+     inkscape:cy="11.910714"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
@@ -38,11 +38,8 @@
        type="xygrid"
        id="grid6" />
   </sodipodi:namedview>
-  <rect
-     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+  <path
      id="rect286"
-     width="24"
-     height="24"
-     x="0"
-     y="0" />
+     style="fill:#808080;fill-rule:evenodd;stroke-linecap:round;stroke-linejoin:round"
+     d="m 0,0 h 24 v 24 h -24 z" />
 </svg>
