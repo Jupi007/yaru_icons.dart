@@ -12,3 +12,4 @@ export 'src/widgets/yaru_placeholder_icon.dart';
 export 'src/yaru_freedesktop_icons.dart';
 export 'src/yaru_icons.dart';
 export 'src/yaru_icons20.dart';
+export 'src/yaru_icons_bis.dart';
